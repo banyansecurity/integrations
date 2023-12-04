@@ -1,5 +1,4 @@
-Export Banyan events to DataDog
-===============================
+# Export Banyan events to Datadog using AWS Lambda
 
 This Python script pulls events from the Banyan API and sends them to DataDog, where you can see them in the Log Viewer.
 
